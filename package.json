@@ -1,6 +1,7 @@
 {
   "name": "monitor-response",
   "version": "0.1.0",
+  "private": true,
   "description": "Used for a consistent way of json output",
   "main": "index.js",
   "scripts": {
